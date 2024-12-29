@@ -1,5 +1,3 @@
-## Hi there 👋
-
 Hi! I'm **Ulrich KEMKA**, a passionate and dedicated Full Stack Developer and DevOps enthusiast. I have a strong interest in crafting innovative solutions, optimizing systems, and solving real-world problems through technology.
 
 ---
